@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "AS5600")(type "Legacy")(uri "0")(options "Legacy")(descr "Legacy")(disabled))
+  (lib (name "2023-08-10_14-36-18")(type "KiCad")(uri "/Users/user/Downloads/ul_AS5600L-ASOM/KiCADv6/2023-08-10_14-36-18.kicad_sym")(options "")(descr ""))
+)
